@@ -1,0 +1,27 @@
+{
+  "name": "@skuyjs/http-plugin-jwt",
+  "version": "0.0.1",
+  "description": "JSON Web Token plugin for SkuyJS",
+  "main": "index.js",
+  "dependencies": {
+    "@skuyjs/http-server": "0.0.6",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skuyjs/http-plugin-jwt.git"
+  },
+  "keywords": [],
+  "author": "Hadi Hidayat Hammurabi <hadihammurabi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skuyjs/http-plugin-jwt/issues"
+  },
+  "homepage": "https://github.com/skuyjs/http-plugin-jwt#readme"
+}
